@@ -1,0 +1,50 @@
+CELEX FIXES 2024:
+
+CANNOT CONNECT TO DRIVER:
+The new file that nick sent doesnt have the map.exe file in it and the map.exe file locates ur drivers. to fix that download from https://discord.com/channels/1191066927431430175/1191192938605182978/1240436385790431232 
+(DOES NOT WORK FOR FALLEN)
+
+"Please run the file located in  map/map.exe and reopen":
+open task manager search "roblox" and close all the running apps including the chrome then re-open map which should fix it if not restart pc
+only close roblox n chrome the others wont do shit
+then go on discord (if u have discord in chrome or sum shi first download the celex file and then close chrome n other running applications)
+then extract the file
+make sure ur chrome n roblox is closed
+open map.exe using administrator perms (to get administrator perms right click n then click on allow w administrator shit)
+then click on yes to allow them to have administrator perms n then wait. it should put up a cmd prompt saying completed. after it says completed run rblx and it should be good
+
+"Failed to auth":
+MAKE A TICKET AND SAY "hwid reset please" IF THEY CLOSE IT YOUR HWID IS RESET IF THEY CLOSE IT AND IT STILL DOESNT WORK ASK FOR A PASSWORD RESET "Could you reset my password to "(random password) Please?"
+
+The code execution cannot proceed because VCRUNTIME140_1 dll was not found:
+https://discord.com/channels/1191066927431430175/1191543069288452209/1240470234528485386
+
+ssl error: 
+goto https://1.1.1.1/
+download it and install it fully 
+once its installed goto the bottem right corner on the (arrow) 
+Now turn it on and run c3l3x again 
+
+Whitelist secret not found:
+MAKE A TICKET AND SAY "hwid reset please" IF THEY CLOSE IT YOUR HWID IS RESET IF THEY CLOSE IT AND IT STILL DOESNT WORK ASK FOR A PASSWORD RESET "Could you reset my password to "(random password) Please?"
+
+Instiliazing modules:
+Delete celex-v2 in appdata (appdata/roaming/celex-v2)
+Disable core isolation And blox strap (if u got it) now restart ur pc
+- - - - -
+Once ur back disable anti virus 
+Run the "login" and put ur info then once ur in the load screen close it and run cheeto
+
+How to fix “This app cannot run on Your PC”:
+
+a) Press Windows + R, Type "%appdata%, Delete the "celex-v2- folder, Disable your anti virus and redownload the loader
+
+b)  Click the windows key, Go to "Settings" then go to "Network and Internet", Select "Change Adapter Options", Right click on the Ethernet or Wi-Fi network that you are connected to (It might be called something different just find your active one), Right click it and press "Properties", In the list under "This connection uses the following items:" find the item "Internet Protocol Version 4", Click it and then click the "Properties" button under it, At the bottom click "Use the following DNS server address:", For "Preferred DNS server:", Put 1.1.1.1 and for "Alternative DNS server:" put 1.0.0.1.
+
+ 
+How to fix BSOD:
+
+a) Try turning off VBS / Hyper-V / Virtualisation, The way to check if you have it is by opening Task Manager, Go to "Performance" at the top, Press "CPU", In the bottom right it should say "Virtualisation", If its on google how to turn off virtualisation on your motherboard.
+
+b) Restart your computer and press the "Delete" key constantly until you see your bios load up, There should be a search bar somewhere, If not you're gonna have to find the toggle to turn off secure boot manually, Every motherboard and cpu have a different BIOS so there is no way to know exactly where its gonna be on everybodys BIOS but once you find it you need to turn off secure boot, Then find the "Save & exit" button or anything of the simmilar to exit and save, Your pc should restart and then try opening lil baby again. 
+
